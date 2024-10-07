@@ -1,12 +1,12 @@
 ---
-title: "MyTitle."
+title: "Kimmin9511"
 layout: splash
 header:
   overlay_color: "#fff"
   overlay_filter: "0.1"
   overlay_image: /assets/images/concrete.jpg
   actions:
-    - label: "Button"
+    - label: "Click!"
       url: "/sample/"
 excerpt: " "
 intro:
@@ -15,8 +15,8 @@ intro:
 
 {% include feature_row id="intro" type="center" %}
 
-## Title
+## College of Computing
 
-Body
+Picture
 
 ![collegeofcomputing](/assets/images/collegeofcomputing.jpg)
